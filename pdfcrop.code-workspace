@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"name": "Python Debugger: Current File",
+				"type": "debugpy",
+				"request": "launch",
+				"module": "pdfcrop",
+				"console": "integratedTerminal",
+				"justMyCode": false
+			}
+		]
+	}
+}
